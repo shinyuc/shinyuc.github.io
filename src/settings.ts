@@ -1,5 +1,5 @@
 export const profile = {
-	fullName: 'Your Name',
+	fullName: 'Shiyu Cheng',
 	title: '',
 	institute: '',
 	author_name: '', // Author name to be highlighted in the papers section
@@ -12,7 +12,7 @@ export const profile = {
 export const social = {
 	email: '',
 	linkedin: '',
-	x: 'https://www.x.com/',
+	x: 'https://x.com/scheng_ai',
 	bluesky: '',
 	github: '',
 	gitlab: '',
