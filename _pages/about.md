@@ -33,6 +33,17 @@ I investigate distributed control methods for multi-agent systems, focusing on s
 <!-- <span style="font-weight: bold; background-color: #FDEBD0; color: black">
 </span> -->
 
+
+## Teaching
+
+- **ESE 2180: Linear Algebra and Component Analysis**  
+  Teaching Assistant, Washington University in St. Louis  
+  Fall 2026, Fall 2025
+
+- **ECE 2305: Introduction to Communications and Networks**  
+  Teaching Assistant, Worcester Polytechnic Institute  
+  Spring 2022
+
 Getting in touch
 ======
 **E-mail**: cheng dot shiyu at wustl dot edu
